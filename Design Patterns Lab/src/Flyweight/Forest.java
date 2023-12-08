@@ -5,10 +5,6 @@
  */
 package Flyweight;
 
-/**
- *
- * @author aabik
- */
 
 import static Flyweight.Demo.CANVAS_SIZE;
 import javax.swing.*;

@@ -5,10 +5,7 @@
  */
 package Flyweight;
 
-/**
- *
- * @author aabik
- */
+
 import java.awt.*;
 
 public class Demo {
